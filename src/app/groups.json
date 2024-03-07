@@ -1,0 +1,1530 @@
+{
+  "data": [
+    {
+      "groupCategory": "TRENDING",
+      "title": "🔥 Lagi Populer",
+      "categories": [
+        {
+          "code": "ML",
+          "name": "Mobile Legends",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/mobile-legends.png?v=1700559002",
+          "slug": "mobile-legends",
+          "percentageDiscount": 10
+        },
+        {
+          "code": "BIGO",
+          "name": "Bigo Live",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/bigo-live.jpg",
+          "slug": "bigo-live",
+          "percentageDiscount": 12
+        },
+        {
+          "code": "FF",
+          "name": "Free Fire",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/ff.jpg?v=1675843174",
+          "slug": "free-fire",
+          "percentageDiscount": 10
+        },
+        {
+          "code": "HGD",
+          "name": "Higgs Domino",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/higgs-domino.jpeg?v=1691555799",
+          "slug": "higgs-domino",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "GI",
+          "name": "Genshin Crystal",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/GENSHINCRYSTAL.jpg?v=1678255659",
+          "slug": "genshin-impact",
+          "percentageDiscount": 29
+        },
+        {
+          "code": "UCPUBGM",
+          "name": "PUBG Mobile",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/pubgm-logo.jpg",
+          "slug": "pubg-mobile",
+          "percentageDiscount": 10
+        },
+        {
+          "code": "ROOGLOBAL",
+          "name": "Ragnarok Origin Global",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/roglobal.png?v=1677649826",
+          "slug": "ragnarok-origin",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "VSTEAM",
+          "name": "Steam Wallet Code",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/voucher-steam-wallet-indonesia.jpg?v=1663561903",
+          "slug": "voucher-steam-wallet",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "VAL",
+          "name": "Valorant",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/valorant-logo.jpg",
+          "slug": "valorant",
+          "percentageDiscount": 5
+        },
+        {
+          "code": "VPSN",
+          "name": "PlayStation™Store Gift Card",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/Playstation.jpg?v=1704518011",
+          "slug": "voucher-playstation-network-psn",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "FFMAX",
+          "name": "Free Fire MAX",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/ffmax.jpg?v=1675843190",
+          "slug": "free-fire-max",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "HSTR",
+          "name": "Honkai : Star Rail",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/honkai_starrail2.png?v=1681180025",
+          "slug": "honkai-star-rail",
+          "percentageDiscount": 27
+        },
+        {
+          "code": "LOL",
+          "name": "League of Legends : Wild Rift",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/lol-wildrift-logo.jpg",
+          "slug": "league-of-legends",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "VPB",
+          "name": "Voucher Point Blank - PB",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/point-blank-logo.jpg",
+          "slug": "pointblank-voucher",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "ROM",
+          "name": "Ragnarok M Eternal Love",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/ragnarok-logo.jpg",
+          "slug": "ragnarok-m-eternal-love",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "RVLNM",
+          "name": "Revelation Mobile",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/revelationid-mobile.jpg?v=1677733572",
+          "slug": "revelation-mobile",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "COC",
+          "name": "Clash of Clans - ID Number",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/coc.jpg?v=1675842764",
+          "slug": "clash-of-clans",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "VGP",
+          "name": "Voucher Google Play",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/GooglePlay.jpg",
+          "slug": "voucher-google-play",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "ROXID",
+          "name": "Ragnarok X - ID Number",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/rox-logo.jpg",
+          "slug": "ragnarok-x",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "VID",
+          "name": "Vidio",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/vidio.jpg?v=1662123234",
+          "slug": "vidio",
+          "percentageDiscount": 26
+        },
+        {
+          "code": "MSAWK",
+          "name": "Metal Slug : Awakening",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/metalslugawakening.png?v=1690515499",
+          "slug": "metal-slug-awakening",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "ROOGLINK",
+          "name": "Ragnarok Origin Global - Package",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/roglobal.png?v=1677898489",
+          "slug": "ragnarok-origin-special-pack",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "SEALM",
+          "name": "Seal M SEA",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/seal-m-sea.png?v=1681787089",
+          "slug": "seal-m-sea",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "CODM",
+          "name": "Call of Duty Mobile",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/codmobile_tile.jpg?updatedAt=1631719605715",
+          "slug": "call-of-duty-mobile",
+          "percentageDiscount": 0
+        }
+      ]
+    },
+    {
+      "groupCategory": "TOPUP_DIRECT",
+      "title": "TOP UP LANGSUNG",
+      "categories": [
+        {
+          "code": "AB",
+          "name": "Arena Breakout",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/arena-breakout.png?v=1689734793",
+          "slug": "arena-breakout",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "ACE",
+          "name": "Ace Racer",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/ace-racer.png?v=1679462677",
+          "slug": "ace-racer",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "AOV",
+          "name": "Arena of Valor",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/aov_tile.jpg?updatedAt=1631705473199",
+          "slug": "arena-of-valor",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "EGGPRT",
+          "name": "Eggy Party",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/eggy-party.png?v=1694403811",
+          "slug": "eggy-party",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "MGL",
+          "name": "Mango Live",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/mangolive2.jpg?v=1675481388",
+          "slug": "mango-live",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "AGCF",
+          "name": "Astral Guardians : Cyber Fantasy",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/astral-guardians.png?v=1681816293",
+          "slug": "astral-guardians-cyber-fantasy",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "GU",
+          "name": "Garena Undawn",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/garena-undawn.jpg?v=1688023567",
+          "slug": "garena-undawn",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "AR",
+          "name": "Atlantica Rebirth",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/atlantica-rebirth.jpg",
+          "slug": "Atlantica-rebirth",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "NIK",
+          "name": "Goddess of Victory : Nikke",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/goddes-of-victory-nikke.png?v=1700555186",
+          "slug": "nikke",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "BTK",
+          "name": "Be The King",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/be-the-king-logo.jpg",
+          "slug": "be-the-king",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "BLEACH",
+          "name": "BLEACH Mobile 3D",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/bleach.png?v=1670062931",
+          "slug": "bleach",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "BRSTR",
+          "name": "Brawl Stars",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/brawl-star.png?v=1700558988",
+          "slug": "brawl-stars",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "CHM",
+          "name": "Chimeraland",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/chimeraland.jpeg",
+          "slug": "chimeraland",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "HOK",
+          "name": "Honor of Kings",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/honor-of-kings.jpg?v=1699243711",
+          "slug": "honor-of-kings",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "CLSRL",
+          "name": "Clash Royale - ID Number",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/clashroyale.jpeg?v=1684914988",
+          "slug": "clash-royale",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "CS",
+          "name": "Cloud Song",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/cloud_song_tile.png?updatedAt=1632019714011",
+          "slug": "cloud-song",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "CRO",
+          "name": "Conquer Online",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/conquer-online-nd.png?v=1664160769",
+          "slug": "conquer-online-nd",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "DR",
+          "name": "Dragon Raja - SEA",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/dragon-raja-logo.jpg",
+          "slug": "dragon-raja",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "DN2EVO",
+          "name": "Dragon Nest 2 : Evolution",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/DN2EVO.png?v=1689668495",
+          "slug": "dragon-nest-2-evolution",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "ECHO",
+          "name": "Echocalypse",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/echocalypse.png?v=1670053824",
+          "slug": "echocalypse",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "DCD",
+          "name": "Dunk City Dynasty",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/dunk-city-dynasty.png?v=1688006703",
+          "slug": "dunk-city-dynasty",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "EOC",
+          "name": "Era of Celestials",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/eraofcelestials.png?v=1667824390",
+          "slug": "eraofcelestials",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "ESM",
+          "name": "Ensemble Stars Music",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/ensemble-stars-music.jpg?v=1688007056",
+          "slug": "ensemble-stars-music",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "EUD",
+          "name": "Eudemons Online",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/eudemons.png?v=1700555418",
+          "slug": "eudemons-online-nd",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "FM2",
+          "name": "Football Master 2",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/football-master-2.png?v=1664128336",
+          "slug": "football-master",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "GTPA",
+          "name": "Growtopia",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/growtopia.jpg?v=1663917360",
+          "slug": "growtopia",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "HRPMA",
+          "name": "Harry Potter: Magic Awakened",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/harry-potter-magic-awakened.png?v=1688006837",
+          "slug": "harry-potter-magic-awakened",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "HYDAY",
+          "name": "Hay Day",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/hayday.png?v=1700555135",
+          "slug": "hay-day",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "HRE",
+          "name": "Heroes Evolved",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/heroes-evolved-nd.png?v=1664162833",
+          "slug": "heroes-evolved-nd",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "HKI",
+          "name": "Honkai Impact 3",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/honkai_impact_PqCMq0eRb.png",
+          "slug": "honkai-impact-3",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "IDLGS",
+          "name": "Idle Legends : GODS SAGA",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/IDLGS.png",
+          "slug": "idle-legends",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "IBR",
+          "name": "Infinite Borders",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/th.jpeg?v=1700050876",
+          "slug": "infinite-borders",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "IDNTV",
+          "name": "Identity V",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/identity-v.png?v=1700555433",
+          "slug": "identity-v",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "LAP",
+          "name": "Laplace M",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/laplace_m_tile.jpg?updatedAt=1632469626997",
+          "slug": "laplace-m",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "LDCID",
+          "name": "LDCloud - UID",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/ldcloud-id.png?v=1686627713",
+          "slug": "ldcloud-uid",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "LOLPC",
+          "name": "League of Legends - PC",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/LOL.jpg?v=1675842872",
+          "slug": "league-of-legends-pc",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "LA",
+          "name": "LifeAfter",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/lifeafter-logo.jpg",
+          "slug": "lifeafter",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "LOR",
+          "name": "Legends of Runeterra",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/runeterra.png?v=1691651840",
+          "slug": "legends-of-runeterra",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "LFMO",
+          "name": "Life Makeover",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/life-makeover.jpg?v=1688007133",
+          "slug": "life-makeover",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "LOT",
+          "name": "Light of Thel",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/lot-logo.jpg",
+          "slug": "light-of-thel",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "LKP",
+          "name": "Lokapala",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/lokapala.jpg?v=1675475549",
+          "slug": "lokapala",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "LOTNRA",
+          "name": "Light of Thel : New Era",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/LOTNRA.png?v=1685352304",
+          "slug": "light-of-thel-new-era",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "LM",
+          "name": "Lords Mobile",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/lords-mobile-logo.jpg",
+          "slug": "lords-mobile",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "LSO",
+          "name": "Lost Saga Origin",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/lost-saga-origin.jpg",
+          "slug": "lost-saga-origin",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "LUD",
+          "name": "Ludo Club",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/ludo-club.png?v=1664159056",
+          "slug": "ludo-club",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "LUNA",
+          "name": "Luna Online New World",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/LUNA.jpg?v=1677984101",
+          "slug": "luna-new-world",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "MSNP",
+          "name": "Marvel Snap",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/marvelsnap.jpg?v=1675842885",
+          "slug": "marvel-snap",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "MSW",
+          "name": "Marvel Super War",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/MARVELsuperwar.png",
+          "slug": "marvel-superwar",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "MIKO",
+          "name": "Miko Era: Twelve Myths",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/miko-era.png?v=1676088141",
+          "slug": "miko-era",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "MRG",
+          "name": "Mirage Perfect Skyline",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/MiragePerfectSkyline_tile.png",
+          "slug": "mirage-perfect-skyline",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "MU2",
+          "name": "MU Origin 2",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/muorigin2a.jpg?v=1675481433",
+          "slug": "mu-origin2",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "MUO3",
+          "name": "MU Origin 3 Asia",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/MUO3.jpg?v=1660293350",
+          "slug": "mu-origin-3",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "NAFID",
+          "name": "Never After",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/never-after.png?v=1700555552",
+          "slug": "never-after",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "OL",
+          "name": "Omega Legends",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/omega-legend-logo.png",
+          "slug": "omega-legends",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "VNSMNC",
+          "name": "New State Mobile (NC)",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/new-state-nc.png?v=1685603360",
+          "slug": "new-state-nc",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "OP",
+          "name": "One Punch Man",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/one-punch-man-logo.jpg",
+          "slug": "one-punch-man",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "PW",
+          "name": "Perfect World",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/PW-2.jpg",
+          "slug": "perfect-world",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "UCPUBGMGLOBAL",
+          "name": "PUBG Mobile - Global",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/pubgm-logo.jpg",
+          "slug": "pubg-mobile-global",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "ROFL",
+          "name": "Ragnarok Forever Love",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/ragnarok-forever-love.jpg",
+          "slug": "ragnarok-forever-love",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "ROR",
+          "name": "Ragnarok Retro",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/ragnarok-retro.jpg",
+          "slug": "ragnarok-retro",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "ROCH",
+          "name": "Return of Condor Heroes",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/roch.jpg?v=1676687823",
+          "slug": "return-of-condor-heroes",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "RFC",
+          "name": "RF Classic",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/rf-online-classic.jpg",
+          "slug": "rf-classic",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "RF",
+          "name": "RF Remastered",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/RF-online-remastered.jpg",
+          "slug": "rf-remastered",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "ROKID",
+          "name": "Rise of Kingdom - ID Number",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/ROK.jpg?v=1679800281",
+          "slug": "rise-of-kingdom",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "SS",
+          "name": "Saint Seiya : Awakening",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/saint_seiya_tile.png",
+          "slug": "saint-seiya",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "SMN",
+          "name": "Sausage Man",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/sausage-man-logo.jpg",
+          "slug": "sausage-man",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "SOS",
+          "name": "State of Survival: Zombie War",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/sos.jpg?v=1676431131",
+          "slug": "state-of-survival-zombie-war",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "SG",
+          "name": "Stumble Guys",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/stumble-guys.png?v=1689939015",
+          "slug": "stumble-guys-id",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "SPSUS",
+          "name": "Super SUS",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/supersus.png?v=1657898608",
+          "slug": "super-sus",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "NVL",
+          "name": "The Legend of Neverland",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/legend-of-neverland.jpg",
+          "slug": "the-legend-of-neverland",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "TA",
+          "name": "Thetan Arena",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/thetanArena.png",
+          "slug": "thetan-arena",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "TJ",
+          "name": "Tom and Jerry Chase",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tom-and-jerry-logo.jpg",
+          "slug": "tom-and-jerry-chase",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "TOF",
+          "name": "Tower of Fantasy",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/tof.png?v=1661311807",
+          "slug": "tower-of-fantasy",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "YS6",
+          "name": "YS 6 Mobile",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/ys6.png?v=1662352926",
+          "slug": "ys6",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "APEX",
+          "name": "Apex Legends Mobile",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/ApexLegendsMobile.png",
+          "slug": "apex-legends-mobile",
+          "percentageDiscount": 0
+        }
+      ]
+    },
+    {
+      "groupCategory": "NEW_RELEASE",
+      "title": "🌟 Baru Rilis",
+      "categories": [
+        {
+          "code": "BST",
+          "name": "Blood Strike",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/BS_1.jpg?v=1699945904",
+          "slug": "blood-strike",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "PSO2",
+          "name": "Phantasy Star Online 2",
+          "imagePath": "https://assets.lapakgaming.com/images/tr:n-icon_category/phantasy-star-online-2.png?v=1706765962",
+          "slug": "phantasy-star-online-2",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "OPMW",
+          "name": "One Punch Man World",
+          "imagePath": "https://assets.lapakgaming.com/images/tr:n-icon_category/unnamed.jpg?v=1706247642",
+          "slug": "one-punch-man-world",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "SOULSLOG",
+          "name": "Souls - Login",
+          "imagePath": "https://assets.lapakgaming.com/images/tr:n-icon_category/souls-login.png?v=1705391816",
+          "slug": "souls-login",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "TURBO",
+          "name": "Turbo VPN",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/turbo-vpn.png?v=1701933468",
+          "slug": "turbo-vpn",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "HAGO",
+          "name": "HAGO",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/hago.png?v=1701836224",
+          "slug": "hago",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "MSTRSG",
+          "name": "Monster Saga",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/monster-saga.png?v=1702287060",
+          "slug": "monster-saga",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "BCM",
+          "name": "Black Clover Mobile",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/icon.png?v=1701362491",
+          "slug": "black-clover-mobile",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "BCMLOG",
+          "name": "Black Clover Mobile - Login",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/icon.png?v=1701398140",
+          "slug": "black-clover-mobile-login",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "MYCARD",
+          "name": "MyCard (TW)",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/mycardtw.png?v=1700282599",
+          "slug": "mycard",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "OCTTR",
+          "name": "OCTOPATH TRAVELER CotC",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/octopath-traveler.png?v=1702009007",
+          "slug": "octopath-traveler",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "TRSLD",
+          "name": "Tarisland",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/tarisland.jpg?v=1700279371",
+          "slug": "tarisland",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "ZZZVGP",
+          "name": "Zenless Zone Zero - Google Play",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/t_500x300.jpeg?v=1701746513",
+          "slug": "voucher-zenless-zone-zero",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "DMC",
+          "name": "Devil May Cry Peak of Combat",
+          "imagePath": "https://assets.lapakgaming.com/images/tr:n-icon_category/devil-may-cry-peak-of-combat.png?v=1705996379",
+          "slug": "devil-may-cry-peak-of-combat",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "8BP",
+          "name": "8 Ball Pool",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/8-ball-pool.png?v=1698134894",
+          "slug": "8-ball-pool",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "JL",
+          "name": "Jade Legends",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/jadelegends-immortal-realm.png?v=1697623834",
+          "slug": "jade-legends",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "PGR",
+          "name": "Punishing: Gray Raven",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/punishing-gray-raven.png?v=1697623618",
+          "slug": "punishing-gray-raven",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "SOSS",
+          "name": "Scroll of Onmyoji: Sakura and Sword",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/scrollof-onmyoji.png?v=1697623869",
+          "slug": "scroll-of-onmyoji-sakura-sword",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "STKK",
+          "name": "Starmaker karaoke",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/starmakersingkaraoke-songs.png?v=1697623745",
+          "slug": "starmaker-karaoke",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "TFT",
+          "name": "Teamfight Tactics Mobile",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/8927739-teamfight-tactics-iphone-front-cover.jpg?v=1700726983",
+          "slug": "teamfight-tactics",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "WSG",
+          "name": "WeSing",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/wesing-karaoke-party-live.png?v=1697623777",
+          "slug": "wesing",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "MPSTR",
+          "name": "MapleStory R",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/343505542_483789817220846_8107320946081814316_n.jpg?v=1700015769",
+          "slug": "maple-story-r",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "IQIYI",
+          "name": "iQIYI",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/369899109_693701926133752_6017869000822242127_n.jpg?v=1700024100",
+          "slug": "iqiyi",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "PB",
+          "name": "Point Blank",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/point-blank-logo.jpg?v=1700028779",
+          "slug": "point-blank",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "RVS1999",
+          "name": "Reverse: 1999 Powered by Google Play",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/reverse-1999.jpg?v=1699240842",
+          "slug": "reverse-1999",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "ZPTO",
+          "name": "Zepeto",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/0x0ss-85.png?v=1697095898",
+          "slug": "Zepeto",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "HTSN",
+          "name": "HATSUNE MIKU: COLORFUL STAGE!",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/hatsune-miku.png?v=1696387131",
+          "slug": "hatsune-miku-colorful-stage",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "KC",
+          "name": "Kings Choice",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/kings-choice.png?v=1696483647",
+          "slug": "kings-choice",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "KOT",
+          "name": "Knives Out",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/347031671_655812696375013_2005429824890971981_n.jpg?v=1700055215",
+          "slug": "knives-out",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "WS",
+          "name": "Whiteout Survival",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/whiteout-survival.png?v=1696323417",
+          "slug": "whiteout-survival",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "FCMBL",
+          "name": "EA SPORTS FC Mobile",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/fc-mobile.png?v=1695862153",
+          "slug": "ea-sports-fc-mobile",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "FCMBLLOG",
+          "name": "EA SPORTS FC Mobile - Login",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/fc_mobile_tile.jpg?v=1697722663",
+          "slug": "ea-sports-fc-mobile-login",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "AHFS",
+          "name": "Among Heroes: Fantasy Samkok",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/among-heroes.png?v=1695021758",
+          "slug": "among-heroes",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "BDMLOG",
+          "name": "Black Desert Mobile - via Login",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/black-desert-mobile-login.png?v=1704180353",
+          "slug": "black-desert-mobile-login",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "CTAID",
+          "name": "Captain Tsubasa : Ace",
+          "imagePath": "https://assets.lapakgaming.com/images/tr:n-icon_category/captain-tsubasa-ace.png?v=1705049173",
+          "slug": "captain-tsubasa-ace",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "DHR",
+          "name": "Dragonheir Silent Gods",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/dragonheir.png?v=1696323507",
+          "slug": "dragonheir",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "DWVNG",
+          "name": "Dynasty Warriors: Overlords - ID",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/dynasty-warriors-overlords.png?v=1694583502",
+          "slug": "dynasty-warriors-overlords",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "FL84",
+          "name": "Farlight 84",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/farlight-84.png?v=1692341757",
+          "slug": "farlight-84",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "GAD",
+          "name": "Gods and Demon - Via Login",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/gods-and-demon.png?v=1696323608",
+          "slug": "gods-and-demon",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "JDNF",
+          "name": "Jade Dynasty : New Fantasy",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/jade-dynasty-new-fantasy.png?v=1704450967",
+          "slug": "jade-dynasty-new-fantasy",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "LIVU",
+          "name": "LivU",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/livu.png?v=1694404152",
+          "slug": "livu",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "LNDLOG",
+          "name": "Love and Deepspace - via Login",
+          "imagePath": "https://assets.lapakgaming.com/images/tr:n-icon_category/love-and-deepspace-login.png?v=1705978585",
+          "slug": "love-and-deepspace-login",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "MLTSCL",
+          "name": "Moonlight Sculptor - Login",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/moonlightsculptorr.png?v=1694663177",
+          "slug": "moonlight-sculptor-login",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "NRTSXG",
+          "name": "Naruto Slugfest",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/naruto-slugfestxgold.png?v=1694663762",
+          "slug": "naruto-slugfest-x-gold",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "MYTHSMKLOG",
+          "name": "Mythic Samkok - Razer Link",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/mythic-samkok.png?v=1703911577",
+          "slug": "mythic-samkok",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "PPYL",
+          "name": "Papaya Live-Live Stream，Show",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/papaya-live.png?v=1695721601",
+          "slug": "papaya-live",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "PWVNG",
+          "name": "Perfect World VNG: Fly with me - Login",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/perfect-world-vng.png?v=1694583148",
+          "slug": "perfect-world-vng",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "ROIDLE",
+          "name": "Ragnarok Idle Adventure",
+          "imagePath": "https://assets.lapakgaming.com/images/tr:n-icon_category/roidle.png?v=1707475752",
+          "slug": "ragnarok-idle-adventure",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "SKIDLOG",
+          "name": "Seven Knight Idle Adventure - Login",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/SKIDLOG.jpeg?v=1693997428",
+          "slug": "seven-knight-idle-login",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "SOULS",
+          "name": "Souls",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/souls.png?v=1695022089",
+          "slug": "souls",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "TIND",
+          "name": "Tinder",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/tinder1.jpg?v=1691310377",
+          "slug": "tinder",
+          "percentageDiscount": 30
+        },
+        {
+          "code": "TOGLOG",
+          "name": "Tower of God: NEW WORLD - Login",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/towerofgod.jpg?v=1690605062",
+          "slug": "tower-of-god-login",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "BSTT",
+          "name": "Bstation / Bilibili",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/bstation.png?v=1690968183",
+          "slug": "bstation",
+          "percentageDiscount": 0
+        }
+      ]
+    },
+    {
+      "groupCategory": "TOPUP_LOGIN",
+      "title": "TOP UP LOGIN",
+      "categories": [
+        {
+          "code": "GILOG",
+          "name": "Genshin Crystal - Login",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/genshin.png?v=1658313511",
+          "slug": "genshin-impact-login",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "ROX",
+          "name": "Ragnarok X - Login",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/rox-logo.jpg",
+          "slug": "ragnarok-x-login",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "ROOGLOBALLOG",
+          "name": "Ragnarok Origin - Login",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/ROO-login.jpg?v=1681121459",
+          "slug": "ragnarok-origin-login",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "CODLOG",
+          "name": "Call of Dragons - Login",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/call-of-dragons.jpg?v=1681723246",
+          "slug": "call-of-dragons-login",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "DN2EVOLOG",
+          "name": "Dragon Nest 2 : Evolution - Login",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/DN2login.jpg?v=1690598076",
+          "slug": "dragon-nest-2-evolution-login",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "ARKLOG",
+          "name": "Arknights Global - Login",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/arknight.jpg?v=1686384361",
+          "slug": "arknights-global-login",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "JOKIMLBB",
+          "name": "Joki MLBB",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/mlbb.jpg?v=1689559967",
+          "slug": "joki-mlbb",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "HSTRLOG",
+          "name": "Honkai : Star Rail - Login",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/honkai-star-rail-login-2.jpg?v=1682497363",
+          "slug": "honkai-star-rail-login",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "CMLOG",
+          "name": "Coin Master - Login",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/coin-master-login.jpg?v=1686381377",
+          "slug": "coin-master-login",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "DH",
+          "name": "Dragon Hunter - Login",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/dragonhunter.jpg",
+          "slug": "dragon-hunter",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "FOURGODS",
+          "name": "Four Gods On Wemix",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/fourgod.png",
+          "slug": "fourgods",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "POKU",
+          "name": "Pokemon Unite - Login",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/pokemon-unite.webp",
+          "slug": "pokemon-unite",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "SK2",
+          "name": "Seven Knights 2 - Login",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/seven_knights_2.webp",
+          "slug": "seven-knights-2",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "NNK",
+          "name": "Ni no Kuni",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/ninokuni.jpg",
+          "slug": "nino-kuni",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "PANSAGALOG",
+          "name": "Panilla Saga - Login",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/panillasaga.jpg?v=1688193162",
+          "slug": "panilla-saga-login",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "DBI",
+          "name": "Diablo: Immortal - Login",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/diabloimortal.png?v=1657337911",
+          "slug": "diablo-imortal",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "MIR4",
+          "name": "MIR4",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/mir4.jpg?v=1657625047",
+          "slug": "mir4",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "UDC",
+          "name": "Undecember - Login",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/undecember-login.png?v=1665807012",
+          "slug": "undecember-login",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "LDC",
+          "name": "LDCloud - Login",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/LDCLOUD.jpg?v=1686627756",
+          "slug": "ldcloud",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "ROA",
+          "name": "Ragnarok Arena - Login",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/ragnarokarena.jpg?v=1675842900",
+          "slug": "ragnarok-arena",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "AVA",
+          "name": "Avatara - Login",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/avatara.jpg?v=1675842785",
+          "slug": "avatara",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "SWCLOG",
+          "name": "Summoner War : Chronicles - Login",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/swc.jpg?v=1678604179",
+          "slug": "summoner-wars-chronicles",
+          "percentageDiscount": 0
+        }
+      ]
+    },
+    {
+      "groupCategory": "VOUCHER",
+      "title": "VOUCHER",
+      "categories": [
+        {
+          "code": "TK8",
+          "name": "Tekken 8",
+          "imagePath": "https://assets.lapakgaming.com/images/tr:n-icon_category/tekken8-1663261659390.jpg?v=1705801354",
+          "slug": "tekken-8",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "GTAV",
+          "name": "Grand Theft Auto V",
+          "imagePath": "https://assets.lapakgaming.com/images/tr:n-icon_category/Grand-Theft-Auto-V-GTA-5-Logo.jpg?v=1705802991",
+          "slug": "grand-theft-auto-v",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "LADIW",
+          "name": "Like a Dragon : Infinite Wealth",
+          "imagePath": "https://assets.lapakgaming.com/images/tr:n-icon_category/Like-a-Dragon-Infinite-Wealth.jpg?v=1705801149",
+          "slug": "like-a-dragon-infinite-wealth",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "TESO",
+          "name": "The Elder Scrolls Online",
+          "imagePath": "https://assets.lapakgaming.com/images/tr:n-icon_category/HXHplXCNslSyvIBToza8CpRe.jpg?v=1705800980",
+          "slug": "the-elders-scrolls-online",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "BGT3",
+          "name": "Baldurs Gate 3",
+          "imagePath": "https://assets.lapakgaming.com/images/tr:n-icon_category/BG3_logo_1.jpg?v=1705800735",
+          "slug": "baldurs-gate-3",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "LCM",
+          "name": "Lethal Company",
+          "imagePath": "https://assets.lapakgaming.com/images/tr:n-icon_category/library_600x900_2x.jpg?v=1705800611",
+          "slug": "lethal-company",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "EAFC24",
+          "name": "EASports FC 24",
+          "imagePath": "https://assets.lapakgaming.com/images/tr:n-icon_category/th.jpg?v=1705800425",
+          "slug": "ea-sports-fc-24",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "PLW",
+          "name": "Palworld",
+          "imagePath": "https://assets.lapakgaming.com/images/tr:n-icon_category/Palworld-logo-in-white-over-mountainous-region-blue-sky-trees-waterfalls-and-building.jpg?v=1705763211",
+          "slug": "palworld",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "VLM",
+          "name": "Voucher Lords Mobile",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/voucher-lords-mobile.png?v=1698227679",
+          "slug": "voucher-lords-mobile",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "DIABLOIV",
+          "name": "Diablo IV",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/diablo-iv.png?v=1688968008",
+          "slug": "diablo-iv",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "VGS",
+          "name": "Voucher Garena Shells",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/garena-logo.jpg",
+          "slug": "garena-voucher",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "VOCBIGO",
+          "name": "Voucher Bigo",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/bigo-voucher.jpg?v=1692068754",
+          "slug": "voucher-bigo",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "NTD",
+          "name": "Voucher Nintendo",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/nintendo.jpg?v=1655952689",
+          "slug": "nintendo",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "RGOLD",
+          "name": "Voucher Razer Gold",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/razer-gold-logo.png",
+          "slug": "razer-gold",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "ROB",
+          "name": "Voucher Roblox / Robux",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/9dde5343f7e8740b4efe341e95fa86d7.jpeg",
+          "slug": "roblox",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "VVAL",
+          "name": "Voucher Valorant",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/valorant-logo.jpg",
+          "slug": "voucher-valorant",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "MGXS",
+          "name": "Voucher Megaxus",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/megaxus.jpg?v=1661394432",
+          "slug": "voucher-megaxus",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "VGSU",
+          "name": "Voucher Garena Undawn",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/garena-undawn.jpg?v=1687584817",
+          "slug": "garena-voucher-undawn",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "VXBOX",
+          "name": "Xbox Gift Card",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/169a7ffe-c2c7-463a-a77c-21239c9ac388.jpeg?v=1666022511",
+          "slug": "xbox-gift-card",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "EFBVGP",
+          "name": "eFootball 2024 Powered by Google Play",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/efootball.png?v=1679384513",
+          "slug": "efootball-2023-powered-by-google-play",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "SGVGP",
+          "name": "Stumble Guys - Google Play",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/stumble-guys.png?v=1659497063",
+          "slug": "voucher-stumble-guys",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "BGC",
+          "name": "Blizzard Gift Card",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/blizzard-gift-card.png?v=1668678869",
+          "slug": "blizzard-gift-card",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "VFVB",
+          "name": "Fortnite V Bucks",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/fortnite-v-bucks.png?v=1668680146",
+          "slug": "fortnite-v-bucks",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "HREPC",
+          "name": "Heroes Evolved - Point Card",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/heroes-evolved-point-card.png?v=1675321121",
+          "slug": "heroes-evolved-point-card",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "CROPC",
+          "name": "Conquer Online - Point Card",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/conquer-online-point-card.png?v=1671096906",
+          "slug": "conquer-online-point-card",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "EUDPC",
+          "name": "Eudemons Online - Point Card",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/eudemons.jpg?v=1675475568",
+          "slug": "eudemons-online-point-card",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "LLGR",
+          "name": "LINE Lets Get Rich Powered by Google Play",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/line-lets-get-rich.png?v=1682666468",
+          "slug": "line-lets-get-rich",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "WETV",
+          "name": "WeTV VIP",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/wetv.png?v=1684823494",
+          "slug": "wetv-vip",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "LGVOCML",
+          "name": "Lapakgaming Voucher Mobile Legends",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/evoucher-mobile-legends.jpeg?v=1692344753",
+          "slug": "lgvoucher-ml",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "LGVOCFF",
+          "name": "Lapakgaming Voucher Free Fire",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/evoucher-free-fire.jpeg?v=1692344742",
+          "slug": "lgvoucher-ff",
+          "percentageDiscount": 0
+        }
+      ]
+    },
+    {
+      "groupCategory": "PULSA",
+      "title": "PULSA",
+      "categories": [
+        {
+          "code": "AXIS",
+          "name": "Axis",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/axis.png?v=1661334394",
+          "slug": "axis",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "ISAT",
+          "name": "Indosat",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/indosat.png?v=1661334416",
+          "slug": "indosat",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "TRI",
+          "name": "Tri",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/tri.png?v=1661334458",
+          "slug": "tri",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "TSEL",
+          "name": "Telkomsel",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/telkomsel.png?v=1661334445",
+          "slug": "telkomsel",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "XL",
+          "name": "XL",
+          "imagePath": "https://assets.lapakgaming.com/images/tr:n-icon_category/XL-Logo.png?v=1704692999",
+          "slug": "xl",
+          "percentageDiscount": 0
+        }
+      ]
+    },
+    {
+      "groupCategory": "ENTERTAINMENT",
+      "title": "ENTERTAINMENT",
+      "categories": [
+        {
+          "code": "LITA",
+          "name": "Lita",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/Lita.png?v=1662341632",
+          "slug": "lita",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "NFX",
+          "name": "Netflix",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/netflix.png?v=1696827455",
+          "slug": "netflix",
+          "percentageDiscount": 0
+        },
+        {
+          "code": "VIU",
+          "name": "VIU",
+          "imagePath": "https://ik.imagekit.io/ljwckh9hmdf/images/tr:n-icon_category/viu.jpg?v=1692342372",
+          "slug": "viu",
+          "percentageDiscount": 0
+        }
+      ]
+    }
+  ]
+}
